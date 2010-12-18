@@ -1,0 +1,16 @@
+This repository contains two bundles:
+
+- com.eclipsesource.widgets.gmaps
+
+This is a Google Maps Widget for RCP and RAP.
+To run it in RAP, you will need RAP 1.4M4 or later.
+An Internet connection is also required.
+
+- com.eclipsesource.widgets.gmaps.demo
+
+A demo application for the widget.
+Contains two launch configurations, one for RAP and one for RCP.
+
+=== License ===
+
+All classes are published under the terms of the Eclipse Public License v1.0
